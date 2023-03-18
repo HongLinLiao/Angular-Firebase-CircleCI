@@ -284,6 +284,3 @@ Name為FIREBASE_TOKEN，Value為firebase login:ci產生的key
 ## **Conclusion**
 
 這是我自己實作的第一套專案開發與建置流程，其實在打這篇的時候也是修修改改的，自己也是有很多沒有很了解的地方，內行的人就看得出來那個.yml可以再精簡一點，但這其實已經夠小型的專案開發了。為了讓像我一樣不停在增進自我能力的人能快速get到整套開發流程的精髓，我還是硬著頭皮把它打完了，未來我也會繼續分享我的知識，希望能幫助到正在努力學習的大家，也謝謝你把這篇看完!
-
-附上Github完整程式碼:
-[https://github.com/HongLinLiao/Angular-Firebase_CircleCI](https://github.com/HongLinLiao/Angular-Firebase_CircleCI)
